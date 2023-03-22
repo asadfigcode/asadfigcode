@@ -1,9 +1,7 @@
 
 ###  Hi 👋 Asad Khalid
 
-I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are built frome the groung up, from planning 
-and designing all way to solving real-life problems with code. Also i have responsible for own work and eager to learn
-for new technology.
+I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are built frome the groung up, from planning and designing all way to solving real-life problems with code. Also i have responsible for own work and eager to learn for new technology.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadfigcode&label=Profile%20views&color=0e75b6&style=flat" alt="asadfigcode" /> </p> -->
 
