@@ -1,6 +1,5 @@
 
-<!-- ###  Hi 👋 Asad Khalid -->
-<h3 align="left">Hi 👋 Asad Khalid</h3>
+###  Hi 👋 Asad Khalid
 
 I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are built frome the groung up, from planning and designing all way to solving real-life problems with code. Also i have responsible for own work and eager to learn for new technology.
 
