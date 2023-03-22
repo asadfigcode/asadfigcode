@@ -11,6 +11,4 @@ I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are
 </p>
 <br/>
 
-<p><img align="left" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadfigcode&show_icons=true&locale=en&layout=compact" alt="asadfigcode" /></p>
-
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=asadfigcode&show_icons=true&locale=en" alt="asadfigcode" /></p>
+<p><img align="left" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadfigcode&show_icons=true&locale=en&layout=compact" alt="asadfigcode" /><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=asadfigcode&show_icons=true&locale=en" alt="asadfigcode" /></p>
