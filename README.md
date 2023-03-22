@@ -9,6 +9,7 @@ I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are
 <p align="left">
 <a href="https://linkedin.com/in/asad khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad khalid" height="30" width="40" /></a>
 </p>
+<br/>
 
 <p><img align="left" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadfigcode&show_icons=true&locale=en&layout=compact" alt="asadfigcode" /></p>
 
