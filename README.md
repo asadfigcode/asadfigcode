@@ -9,7 +9,7 @@ I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="18" height="18"/>            photoshop
 * <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="19" height="19"/> Git
 
-## Example of Work:
+## Examples of Work:
 <p align="left"><img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" alt="GifImage" width="250" /></p>
 
 ## Connect with me:
