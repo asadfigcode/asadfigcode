@@ -1,6 +1,6 @@
 
 ###  Hi 👋 Asad Khalid
-I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are built frome the ground up, from planning and designing all way to solving real-life problems with code. Also i have responsible for own work and eager to learn for new technology.
+I'm Asad from Pakistan, and I do Front-End Developement. All coding projects are built from the ground up, from planning and designing all way to solving real-life problems with code. Also i have responsible for own work and eager to learn for new technology.
 
 ## Skills and Experience:
 * 💻 Html, Css, Js 
